@@ -1,5 +1,0 @@
-# Simple Weather App
-
-
-
-f
