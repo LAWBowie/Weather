@@ -7,6 +7,6 @@ Weather app that uses an API to get access to live weather conditions for cities
 
 Using an API to get access to live weather conditions for cities.<br>
 
-Once entered
+Once entered, the city stays 
 
 [Live Demo](https://codepen.io/LAWBowie/pen/Jjmagga).
