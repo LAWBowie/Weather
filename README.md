@@ -1,6 +1,6 @@
 # Weather App
 
-Weather app that uses an API to get access to live weather conditions for cities <br>
+Weather app that uses an API to get access to live weather conditions for cities. <br>
 
 All work completed in CodePen.
 
@@ -9,6 +9,6 @@ All work completed in CodePen.
 
 Using an API to get access to live weather conditions for cities.<br>
 
-Once entered, the city stays on screen displayed to the user.
+Once entered, the city stays on the screen displayed to the user.
 
 [Live Demo](https://codepen.io/LAWBowie/pen/Jjmagga).
