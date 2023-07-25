@@ -2,6 +2,8 @@
 
 Weather app that uses an API to get access to live weather conditions for cities <br>
 
+All work completed in
+
 ## Technologies 
 [![My Skills](https://skillicons.dev/icons?i=html,css,github,vscode,bootstrap,javascript)](https://skillicons.dev)
 
