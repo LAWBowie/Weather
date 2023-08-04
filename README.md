@@ -14,3 +14,4 @@ Once entered, the city stays on the screen displayed to the user.
 [Live Demo](https://codepen.io/LAWBowie/pen/Jjmagga).
 
 My Socials:
+Twitter: 
