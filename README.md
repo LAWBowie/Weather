@@ -15,4 +15,5 @@ Once entered, the city stays on the screen displayed to the user.
 
 ## My Socials:
 Twitter: </br>
+
 Linkedin:
